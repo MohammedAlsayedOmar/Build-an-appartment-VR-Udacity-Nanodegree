@@ -1,6 +1,8 @@
 # Appartment in VR
 
 Second application created in VR using Unity engine provided by Udacity
+
+Time taken: 4 Hours and 45 minutes
 ### How to test
 To test it on you android smartphone device, download the "VRProject1.apk" located inside the "Build" folder.
 
@@ -22,3 +24,5 @@ Chanllenges: There were a lot of challeneges that I encountered:
 * Second challenge was the "Globe" because all the cameras disappeared when i tried to run when i had 4 cameras in the scene but was later resolved when I looked at the first project.
 * Third one was the trying to build a beautiful scene with minimal props. Also, some object's pivot such as the microwave was a bit off which it more challenging.
 * Last thing was adding a background city music like.
+
+More information about the course at: https://classroom.udacity.com/nanodegrees/nd017
