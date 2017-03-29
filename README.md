@@ -6,7 +6,7 @@ Time taken: 4 Hours and 45 minutes
 ### How to test
 To test it on you android smartphone device, download the "VRProject1.apk" located inside the "Build" folder.
 
-To test it inside your unity editor, download the "Assets" and the "ProjectSettings" folders.
+To test it inside your unity editor, download the "Assets" and the "ProjectSettings" folders. Also get [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk) and place it inside your project.
 
 ##### Things I learned:
 * Adding 3D models to a scene
