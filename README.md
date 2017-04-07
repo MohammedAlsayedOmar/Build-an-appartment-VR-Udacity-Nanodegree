@@ -2,13 +2,15 @@
 
 Second application created in VR using Unity engine provided by Udacity
 
+![Apartment](/Screenshots/Screenshot_2017-03-21-02-23-48.png)
+
 Time taken: 4 Hours and 45 minutes
 ### How to test
 To test it on you android smartphone device, download the "VRProject1.apk" located inside the "Build" folder.
 
 To test it inside your unity editor, download the "Assets" and the "ProjectSettings" folders. Also get [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk) and place it inside your project.
 
-##### Things I learned:
+### Things I learned:
 * Adding 3D models to a scene
 * Moving, scaling, and rotating 3D models
 * Deploying to your Cardboard Viewer
@@ -26,3 +28,6 @@ Chanllenges: There were a lot of challeneges that I encountered:
 * Last thing was adding a background city music like.
 
 More information about the course at: https://classroom.udacity.com/nanodegrees/nd017
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
