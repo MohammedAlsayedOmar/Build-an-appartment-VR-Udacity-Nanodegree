@@ -2,7 +2,7 @@
 
 Second application created in VR using Unity engine provided by Udacity
 
-![Apartment](./Screenshots/Screenshot_2017-03-21-02-23-48.png =320)
+![Apartment](./Screenshots/Screenshot_2017-03-21-02-23-48.png =320x)
 
 Time taken: 4 Hours and 45 minutes
 ### How to test
