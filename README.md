@@ -6,7 +6,7 @@ Second application created in VR using Unity engine provided by Udacity
 
 Time taken: 4 Hours and 45 minutes
 ### How to test
-To test it on you android smartphone device, download the "VRProject1.apk" located inside the "Build" folder.
+To test it on your android smartphone device, download the "VRProject1.apk" located inside the "Build" folder.
 
 To test it inside your unity editor, download the "Assets" and the "ProjectSettings" folders. Also get [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk) and place it inside your project.
 
